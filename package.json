@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "init": "^0.1.2"
+  }
+}
